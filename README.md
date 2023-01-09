@@ -1,5 +1,5 @@
 # Wine Quality Classifier
-This project aims to classify the quality of wine based on its rating, reviews, and other attributes. The quality is classified into two categories: "high" (rating above 4.1) and "poor" (rating below 3).
+This project aims to classify the quality of wine based on its rating, reviews, and other attributes. The quality is classified into two categories: "high" (rating above 4.1) and "poor" (rating below 4.1).
 
 ## Data Preprocessing
 The data used in this project was obtained from https://www.wine.com/. Several steps were taken to prepare the data for machine learning:
