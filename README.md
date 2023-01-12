@@ -36,10 +36,10 @@ Several machine learning models were trained and evaluated to classify the quali
 9. SVC
 10. Naive Bayes  
 
-The performance of each model was evaluated using accuracy and cross-validation score. The best-performing model was Gradient Boosting, with an accuracy of 79.47% and a cross-validation score of 77.47%.
+The performance of each model was evaluated using accuracy and cross-validation score. The best-performing model was Logistic Regression, with an accuracy of 83.33%, a cross-validation score of 80.35% and a f1 score of 66.66%.
 
 ## Conclusion
-After analyzing and visualizing the data, we found some interesting insights about the wine industry. We also applied several machine learning techniques to predict the quality of a wine based on its characteristics and reviews. Out of the various models we tried, Logistic Regression performed the best with an accuracy of 79%. However, it is important to note that all the models had a relatively high accuracy, indicating that there are strong correlations between the features and the target variable.
+After analyzing and visualizing the data, we found some interesting insights about the wine industry. We also applied several machine learning techniques to predict the quality of a wine based on its characteristics and reviews. Out of the various models we tried, Logistic Regression performed the best with an accuracy of 83%. However, it is important to note that all the models had a relatively high accuracy, indicating that there are strong correlations between the features and the target variable.
 
 
 
