@@ -8,7 +8,7 @@ The data used in this project was obtained from https://www.wine.com/. Several s
 2. Rows with null values in the reviews column were removed.
 3. Rows with a 0 value in the rating or abv column or a value less than or equal to 8 in the rating_count column were removed.
 4. Any rows with a non-numeric value in the year column were removed.
-5. The price column was converted to an integer data type and rows with a value greater than or equal to 250 were removed.
+5. The price column was converted to an integer.
 6. The rating column was converted to a float data type.
 7. Rows with a year value less than or equal to 2000 or greater than or equal to 2021 were removed.
 8. Rows with a value in the varietal column that did not appear in at least three other rows were removed, as were rows with a value in the origin column that did not appear in at least three other rows.
